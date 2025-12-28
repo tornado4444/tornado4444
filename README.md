@@ -10,7 +10,7 @@
 ![Vulkan](https://shields.io/badge/-Vulkan-090909?style=for-the-badge&logo=Vulkan&logoColor=%23FF0000)
 
 ## My stats!
-[![Tornado's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornado4444&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tornado's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornado4444&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pie Chart Language Card Layout
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornado4444&hide_progress=false&theme=merko)
