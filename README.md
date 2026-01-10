@@ -12,11 +12,9 @@
 ## My stats!
 [![Tornado's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornado4444&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Summary cards (self-hosted)
-![](https://create-tokens.vercel.app/api/cards/profile-details?username=tornado4444&theme=nord_dark)
-![](https://create-tokens.vercel.app/api/cards/stats?username=tornado4444&theme=nord_dark)
 ![](https://create-tokens.vercel.app/api/cards/repos-per-language?username=tornado4444&theme=nord_dark)
 ![](https://create-tokens.vercel.app/api/cards/most-commit-language?username=tornado4444&theme=nord_dark)
+
 ![](https://create-tokens.vercel.app/api/cards/productive-time?username=tornado4444&theme=nord_dark&utcOffset=2)
 
 
