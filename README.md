@@ -14,3 +14,6 @@
 
 ## Pie Chart Language Card Layout
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornado4444&hide_progress=false&theme=merko)
+
+## Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=tornado4444&theme=merko&hide_border=true)
