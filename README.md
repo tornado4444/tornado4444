@@ -14,7 +14,7 @@
 
 ## Pie Chart Language Card Layout
 ## Summary cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tornado4444&theme=github_dark)
+![Lol](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tornado4444&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tornado4444&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tornado4444&theme=github_dark&utcOffset=2)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tornado4444&theme=github_dark)
