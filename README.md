@@ -13,7 +13,7 @@
 [![Tornado's GitHub stats](https://github-readme-stats.vercel.app/api?username=tornado4444&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pie Chart Language Card Layout
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornado4444&hide_progress=false&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornado4444&layout=pie&theme=merko)
 
 ## Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=tornado4444&theme=merko&hide_border=true)
