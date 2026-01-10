@@ -11,7 +11,6 @@
 
 ## My stats!
 ![](https://create-tokens.vercel.app/api/cards/repos-per-language?username=tornado4444&theme=nord_dark&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tornado4444&layout=compact&theme=merko&hide_progress=false)
 
 ## Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=tornado4444&theme=merko&hide_border=true)
