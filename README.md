@@ -22,7 +22,6 @@
       height="158" width="400" alt="Top languages" />
   </span>
 </p>
-![](https://create-tokens.vercel.app/api/cards/repos-per-language?username=tornado4444&theme=nord_dark&v=1)
 
 ## Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=tornado4444&theme=merko&hide_border=true)
