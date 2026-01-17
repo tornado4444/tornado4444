@@ -6,6 +6,7 @@
 ![C++](https://shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6296CC)
 ![C](https://shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=6296CC)
 ![Assembly](https://shields.io/badge/-Assembly-090909?style=for-the-badge&logo=Assembly&logoColor=6296CC)
+![Zig](https://shields.io/badge/-Zig-090909?style=for-the-badge&logo=Zig&logoColor=6296CC)
 ![OpenGL](https://shields.io/badge/-OpenGL-090909?style=for-the-badge&logo=OpenGL&logoColor=6296CC)
 ![Vulkan](https://shields.io/badge/-Vulkan-090909?style=for-the-badge&logo=Vulkan&logoColor=%23FF0000)
 
