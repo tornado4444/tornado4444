@@ -8,7 +8,7 @@
 ![Assembly](https://shields.io/badge/-Assembly-090909?style=for-the-badge&logo=Assembly&logoColor=6296CC)
 ![Zig](https://shields.io/badge/-Zig-090909?style=for-the-badge&logo=Zig&logoColor=6296CC)
 ![OpenGL](https://shields.io/badge/-OpenGL-090909?style=for-the-badge&logo=OpenGL&logoColor=6296CC)
-![Vulkan](https://shields.io/badge/-Vulkan-090909?style=for-the-badge&logo=Vulkan&logoColor=%23FF0000)
+[Vulkan](https://shields.io/badge/-Vulkan-090909?style=for-the-badge&logo=Vulkan&logoColor=%23FF0000)
 
 ## My Stats
 
