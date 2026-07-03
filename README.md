@@ -1,6 +1,6 @@
 # HI VISITORS! 👋
 
-![image](https://github.com/tornado4444/tornado4444/blob/main/assets/with%20love.png)
+[image](https://github.com/tornado4444/tornado4444/blob/main/assets/with%20love.png)
 
 ## Languages, Tools and API
 ![C++](https://shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6296CC)
