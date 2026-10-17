@@ -57,7 +57,3 @@
     alt="Productive Time"
   />
 </p>
-
-
-## Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=tornado4444&theme=merko&hide_border=true)
